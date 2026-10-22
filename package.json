@@ -4,8 +4,8 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite --config apps/room-viewer/vite.config.ts",
-    "build": "tsc && vite build --config apps/room-viewer/vite.config.ts",
+    "dev": "node init && vite --config apps/room-viewer/vite.config.ts",
+    "build": "node init && tsc && vite build --config apps/room-viewer/vite.config.ts",
     "preview": "vite preview --config apps/room-viewer/vite.config.ts",
     "textures": "python3 .agents/skills/scan-to-threejs/scripts/fetch_textures.py"
   },

@@ -1,5 +1,7 @@
 # 3D Model Anything
 
+[![Watch the video: 3D Model Anything](docs/images/thumb-1.png)](https://www.youtube.com/watch?v=JGQCcCzuS88)
+
 Capture a room on an iPhone, then use its geometry and photographs to build an editable Three.js scene with an AI coding agent.
 
 [Open the office viewer](https://wesbos.github.io/3d-model-anything/) · [App support](https://wesbos.github.io/3d-model-anything/support.html)
