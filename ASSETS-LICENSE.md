@@ -1,6 +1,6 @@
 # Demo asset terms
 
-The MIT license covers source code, including geometry builders, and the agent skill. It does not cover files under `data/`.
+The MIT license covers source code, including geometry builders, and the agent skill. It does not cover files under `data/` or the promotional thumbnail `docs/images/thumb-1.png`. The thumbnail may be displayed with this project and linked to the accompanying video; other reuse requires permission.
 
 Office measurement data and images are supplied to run and study this example. You may copy them as part of this repository for that purpose and display the example viewer. Do not sell, sublicense, or redistribute them as standalone assets or use them to imply endorsement. Ask Wes Bos before other reuse.
 
